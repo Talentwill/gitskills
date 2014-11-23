@@ -1,4 +1,4 @@
 gitskills
 =========
-created a branch called dev
+created a branch called simple.
 
